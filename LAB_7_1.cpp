@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-
+//ณัฐัวชต์ โนวรรณ์
 using namespace std;
 
 string func1(string x){
